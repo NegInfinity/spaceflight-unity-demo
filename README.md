@@ -1,4 +1,4 @@
-Readme:
+# Readme:
 
 This is a quick proof of concept project that demonstrates double precision spaceflight in unity.
 
@@ -10,7 +10,7 @@ The ship cannot be controlled (then again, this wouldn't be hard to fix), and is
 
 Planets and the ship move according to newtonian mechanics, using their real speeds and masses. Meaning sun, moon and earth interact with each other.
 
-Controls:
+# Controls:
 
 Arrow keys: Rotate camera.
 Shift + Arrow keys: Roll camera.
